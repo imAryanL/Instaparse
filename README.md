@@ -1,6 +1,4 @@
-# Lab 3: Instaparse Part 2  
-**Z Number**: Z23724811  
-**Name**: Aryan Lakhani  
+# Instaparse Part 2  
 
 ## Description  
 This lab is Part 2 of the Instaparse project. In Part 1, users were able to sign up, log in, and upload photos to their feed from their photo library. In this lab (Part 2), new features have been added, including:  
