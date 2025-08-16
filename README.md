@@ -6,6 +6,10 @@ This lab is Part 2 of the Instaparse project. Users are able to sign up, log in,
 - Viewing recent posts from other users  
 - Filtering posts based on when they were uploaded
 
+## Demo
+
+  ![2024-09-25 02 39 08](https://github.com/user-attachments/assets/8c7b4b4b-92c0-4419-a2fd-0dbd009ac355)
+
 All user authentication and data continue to be handled via the Parse backend hosted on Back4App.
 
 ## Key Features
@@ -14,18 +18,6 @@ All user authentication and data continue to be handled via the Parse backend ho
 - **Recent Post Filtering**: The app only shows the 10 most recent posts, and only posts from the last 24 hours are visible.
 - **Blurred Posts**: Posts that are older than 24 hours (relative to the user’s last post) will appear blurred in the feed.
 - **Track Last Post Date**: Each user’s last post date is saved, and this is used to filter which posts are visible in the feed.
-
-## GIFs
-
-
-**GIF of creating a new account, viewing blurred posts, and posting a picture from the photo library
-
-![2024-09-25 02 39 08](https://github.com/user-attachments/assets/8c7b4b4b-92c0-4419-a2fd-0dbd009ac355)
-
-
-
-<br>
-<br>
 
 
 **GIF of taking photos using phone camera**
