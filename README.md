@@ -1,7 +1,7 @@
-# Instaparse Part 2  
+# Instaparse
 
 ## Description  
-This lab is Part 2 of the Instaparse project. In Part 1, users were able to sign up, log in, and upload photos to their feed from their photo library. In this lab (Part 2), new features have been added, including:  
+This lab is Part 2 of the Instaparse project. Users are able to sign up, log in, and upload photos to their feed from their photo library. Also new features have been added, including:  
 - The ability to take photos with the camera  
 - Viewing recent posts from other users  
 - Filtering posts based on when they were uploaded
